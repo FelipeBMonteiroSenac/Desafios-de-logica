@@ -1,0 +1,3 @@
+Um certo competidor com nome iniciando com P. Recebe R$ 60,20 por hora trabalhada. Se ele trabalhar mais que 20 horas receberá um adicional de 30%, de hora extra.
+Objetivo: Desenvolva um sistema que calcule quanto este determinado competidor recebe ao fim do mês caso faça ou não horas extras no mês.
+Regras: O adicional se aplica apenas sobre as horas que superem as 20h regulares de trabalho.
